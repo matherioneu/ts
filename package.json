@@ -1,7 +1,7 @@
 {
   "name": "@matherioneu/ts",
   "author": "Mia <vottus@vott.us>",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "types": "index.d.ts",
   "license": "MIT",
@@ -9,6 +9,7 @@
   "repository": "https://github.com/matherioneu/ts",
   "description": "Our TypeScript tooling configs.",
   "devDependencies": {
+    "@types/node": "^15.0.2",
     "@typescript-eslint/eslint-plugin": "^4.23.0",
     "@typescript-eslint/parser": "^4.23.0",
     "eslint": "^7.26.0",

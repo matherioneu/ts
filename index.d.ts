@@ -1,4 +1,5 @@
-export default {
-  eslint: object,
-  prettier: object,
+declare const ts: {
+  eslint: any
+  prettier: any
 }
+export default ts
